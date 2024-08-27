@@ -1,36 +1,18 @@
-About Me
-👋 Hello! I'm Sanjay
-I am a passionate Full Stack Developer with a focus on the MERN stack (MongoDB, Express.js, React.js, and Node.js). Currently, I am working as a Junior Software Developer, where I continuously expand my skill set and contribute to exciting projects.
+# 💫 About Me:
+I am a passionate Full Stack Developer and MERN stack developer focused on building dynamic and responsive web applications<br>
 
-🛠️ Technologies & Tools
-Frontend: HTML, CSS, JavaScript, React.js
-Backend: Node.js, Express.js
-Database: MongoDB, SQL, SQLite
-Version Control: Git, GitHub
-Other Tools: Webpack, Docker, Selenium, Streamlit
 
-🌟 Experience
-MERN Stack Development: Building dynamic and responsive web applications using the MERN stack.
-Full Stack Development: Proficient in both frontend and backend technologies, ensuring seamless integration and performance.
-Junior Software Developer: Actively involved in software development processes, learning and growing in a professional environment.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-rushee) 
 
-🚀 Projects
-Project 1: NXT-Trendz
-Description: An e-commerce website built using the MERN stack. This project involved designing user interfaces, managing state with React, and building a secure backend with Node.js and Express.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sanjayrushee&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sanjayrushee&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayrushee&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-Project 2: Google Keep Clone
-Description: A note-taking application inspired by Google Keep, developed using React and MongoDB. It includes user authentication, CRUD operations, and a clean, responsive design.
+---
+[![](https://visitcount.itsvg.in/api?id=sanjayrushee&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Project 3: Bus Route Data Scraper
-Description: A web scraping script using Selenium to extract bus data from a public website, handling dynamic elements and storing data in a structured format.
-
-📫 How to Reach Me
-LinkedIn: https://www.linkedin.com/in/sanjay-rushee/
-
-🌱 I’m currently learning
-Advanced React Patterns
-TypeScript
-Data Structures and Algorithms
-
-🤝 Let's Connect
-I’m always open to discussing new opportunities, collaborating on projects, or just having a chat about tech. Feel free to reach out!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
