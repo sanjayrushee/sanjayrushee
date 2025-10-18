@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate Full Stack Developer, MERN stack developer, and Python developer focused on building dynamic and responsive web applications.<br>
+I am a passionate Full Stack Developer and Python developer focused on building dynamic and responsive web applications.<br>
 
 
 ## 🌐 Socials:
