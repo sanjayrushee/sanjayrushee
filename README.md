@@ -1,5 +1,5 @@
 # 💫 About Me:
-"I am a passionate Software Developer and Freelancer dedicated to building dynamic, responsive web and mobile applications."<br>
+I am a passionate Software Developer and Freelancer dedicated to building dynamic, responsive web and mobile applications.<br>
 
 
 ## 🌐 Socials:
